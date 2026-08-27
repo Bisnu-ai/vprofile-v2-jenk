@@ -12,6 +12,6 @@ public class App
     }
 
     public String getMessage() {
-        return "Hello World!";
+        return "Bisnu's jenkins 1st successfully build and deployment";
     }
 }
