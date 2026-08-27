@@ -12,6 +12,6 @@ public class AppTest
     public void testApp()
     {
         App app = new App();
-        assertEquals("Hello World!", app.getMessage());
+        assertEquals("Bisnu's jenkins 1st successfully build and deployment", app.getMessage());
     }
 }
